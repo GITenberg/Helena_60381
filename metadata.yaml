@@ -1,5 +1,5 @@
 _repo: Helena_60381
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Sjöström, Axel Gabriel
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '47759'
     url: http://www.gutenberg.org/2009/agents/47759
     wikipedia: https://sv.wikipedia.org/wiki/Axel_Gabriel_Sj%C3%B6str%C3%B6m
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Euripides
@@ -20,6 +23,8 @@ creator:
     - http://en.wikipedia.org/wiki/Euripides
     - http://el.wikipedia.org/wiki/%CE%95%CF%85%CF%81%CE%B9%CF%80%CE%AF%CE%B4%CE%B7%CF%82
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60381#Helena
 gutenberg_issued: '2019-09-29'
 gutenberg_type: Text
 identifiers:
